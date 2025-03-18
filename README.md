@@ -1,12 +1,11 @@
 # Erlang Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/13/2025
+This data is updated weekly, with filled postings removed. Last updated: 03/18/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Erlang Jobs](https://algojobs.io/jobs/erlang)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
-| 03/10/2025 | [Elixir Backend Engineer (Amsterdam)](https://algojobs.io/jobs/3421441) | [Together AI](https://algojobs.io/company/togetherai/) | N/A | Amsterdam |
 | 03/07/2025 | [Staff Software Engineer, Content Platforms](https://algojobs.io/jobs/3404497) | [Tubi](https://algojobs.io/company/tubitv/) | $181K - $259K | San Francisco, CA (Hybrid) |
 | 02/28/2025 | [Golang Developer (Fintech sphere)](https://algojobs.io/jobs/3304485) | [Coherent Solutions](https://algojobs.io/company/coherentsolutions/) | N/A | Moldova |
 | 02/20/2025 | [Developer/Engineer - Virtualization Infrastructure Tooling](https://algojobs.io/jobs/3221213) | [Synechron Limited_UK Company](https://algojobs.io/company/synechron/) | $90K - $95K | MDC – Montreal / Alpharetta, GA |
