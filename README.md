@@ -1,11 +1,12 @@
 # Erlang Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 05/11/2025
+This data is updated weekly, with filled postings removed. Last updated: 05/18/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Erlang Jobs](https://algojobs.io/jobs/erlang)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 05/12/2025 | [Principal, Software Engineer (Distributed Systems) - MSC - DPOE Engineering - Pleasanton](https://algojobs.io/jobs/4058664) | [Workday, Inc.](https://algojobs.io/company/workday/) | $217K - $326K | USA, CA, Pleasanton, United States of America |
 | 05/09/2025 | [Senior Blockchain Developer](https://algojobs.io/jobs/4043384) | [Sony](https://algojobs.io/company/sonyglobal/) | N/A | Zaventem, Belgium |
 | 05/07/2025 | [Sr. Reverse Engineering Developer](https://algojobs.io/jobs/4018142) | [Trend Micro](https://algojobs.io/company/trendmicro/) | N/A | Austin, United States of America |
 | 04/30/2025 | [Elixir Software Engineer](https://algojobs.io/jobs/3944990) | [True Anomaly](https://algojobs.io/company/trueanomalyinc/) | $140K - $190K | Denver, CO or Colorado Springs, CO or Long Beach, CA or Washington D.C. |
@@ -17,4 +18,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 04/08/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3717651) | [Take-Two Interactive Software, Inc.](https://algojobs.io/company/taketwo/) | $105K - $155K | Vancouver, British Columbia, Canada |
 | 04/08/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3717652) | [Take-Two Interactive Software, Inc.](https://algojobs.io/company/taketwo/) | $123K - $182K | San Francisco, California, United States |
 | 03/25/2025 | [Software Engineer](https://algojobs.io/jobs/3570839) | [Wabtec Corporation](https://algojobs.io/company/wabtec/) | N/A | Bengaluru, India |
-| 03/24/2025 | [Software Development Intern](https://algojobs.io/jobs/3563270) | [Activision Blizzard](https://algojobs.io/company/activision/) | N/A | Shanghai - Activision - Lingshi RD, China |
